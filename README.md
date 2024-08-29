@@ -1,16 +1,3 @@
 ## ### Boas vindas ao meu perfil 🖤
 
-<!--
-**Tamires2025/Tamires2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...sim
-- 🌱 I’m currently learning ...um pouco
-- 👯 I’m looking to collaborate on ...sim
-- 🤔 I’m looking for help with ...com o professor
-- 💬 Ask me about ...
-- 📫 How to reach me: ...Gmail
-- 😄 Pronouns: ...ela
-- ⚡ Fun fact: ...Não sei 
--->
+<p xmlns:cc="http://creativecommons.org/ns#" >Este trabalho está marcado com <a href="https://creativecommons.org/publicdomain/zero/1.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC0 1.0<img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/cc.svg?ref=chooser-v1" alt=""><img style="height:22px!important;margin-left:3px;vertical-align:text-bottom;" src="https://mirrors.creativecommons.org/presskit/icons/zero.svg?ref=chooser-v1" alt=""></a></p>
